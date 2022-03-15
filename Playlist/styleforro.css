@@ -1,0 +1,91 @@
+.faixas{
+    margin-top: 400px;
+    text-align: center;
+}
+
+.forro{
+    position: absolute;
+width: 273.98px;
+height: 273.98px;
+left: 464px;
+top: 101px;
+}
+
+.texto1{
+position: absolute;
+width: 1036.58px;
+height: 210.69px;
+left: 464px;
+top: 133px;
+
+font-family: 'Geo';
+font-style: normal;
+font-weight: 500;
+font-size: 202.26px;
+line-height: 101.2%;
+/* or 205px */
+
+text-align: center;
+letter-spacing: -0.03em;
+
+color: #FFFFFF;
+}
+
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+    .logo{
+    float:right;
+    margin-left: 900px;
+    }
+*{
+    margin: 0px;
+    }
+:root{
+    --cor0: #6DD4CF;
+    --cor1: #00C4CC;
+    --cor2: #333;
+    --cor3: #101010;
+    }
+body{
+    
+    font-size: 28px;
+    
+    background-image: url(imagens/back.png);
+    
+    background-size:cover;
+    
+    
+}
+nav{
+    list-style-type: none;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #222;
+    position: sticky;
+    top: 0;
+    position: -webkit-sticky; /* Safari */
+
+}
+
+.navbar a:hover{
+    
+    background-color: #111;
+    color: white;
+
+}
+.navbar a{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+    }
+
+    .activate{
+        background-color: #00C4CC;
+    }

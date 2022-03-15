@@ -1,0 +1,206 @@
+.senha{
+    height: 140px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.eyez{
+    height: 140px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.god{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.vida{
+    height: 140px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.ridah{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.ilusao{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.modelz{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.peca{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.autotune{
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.ret{
+    border-radius: 10px;
+}
+figure{
+    
+    width: 40px;
+    margin-top: 20px;
+    margin-left: 180px;
+    
+}
+
+.faixa10{
+    margin-top: 80px;
+    margin-bottom: 40px;
+}
+.faixa9{
+    margin-top: 80px;
+}
+.faixa8{
+    margin-top: 80px;
+}
+.faixa7{
+    margin-top: 80px;
+}
+.faixa6{
+    margin-top: 80px;
+}
+.faixa5{
+    margin-top: 80px;
+}
+.faixa4{
+    margin-top: 80px;
+}
+.faixa3{
+    margin-top: 80px;
+}
+.faixa2{
+    margin-top: 80px;
+}
+.faixas{
+    width: 1300px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 100px;
+}
+.caixa a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+.caixa:hover{
+    transform: scale(1.07);
+}
+.caixa{
+    
+    font-family: 'Roboto Condensed';
+    font-size: 30px;
+    margin-top: 40px;
+    color: white;
+    background-color: #00C4CC;
+    padding: 10px 5px 10px 5px;
+    width: 150px;
+    height: 35px;
+    text-align: center;
+    
+    margin-left: 860px;
+    border-radius: 8px;
+    transition: 2.0s;
+    
+    
+    
+}
+.texto3{
+    color: white;
+    font-family: 'Archivo Black';
+    text-align: center;
+    font-size: 40px;
+    margin-top: 120px;
+
+
+}
+.texto2{
+    color: white;
+    text-align: center;
+    margin-top: 9px;
+    font-family: 'Roboto Condensed';
+}
+
+.texto1{
+    font-family:'Geo';
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    margin-top: 80px;
+    letter-spacing: -3px;
+}
+html, body{
+    height: 100%;
+    margin: 0;
+}
+
+
+h3{
+    margin-top: 40px;
+}
+.logo{
+    float:right;
+    margin-left: 900px;
+    }
+*{
+    margin: 0px;
+    }
+:root{
+    --cor0: #6DD4CF;
+    --cor1: #00C4CC;
+    --cor2: #333;
+    --cor3: #101010;
+    }
+body{
+    
+    font-size: 28px;
+    
+    background-image: url(imagens/back.png);
+    
+    background-size:cover;
+    
+    
+}
+nav{
+    list-style-type: none;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #222;
+    position: sticky;
+    top: 0;
+    position: -webkit-sticky; /* Safari */
+
+}
+
+.navbar a:hover{
+    
+    background-color: #111;
+    color: white;
+
+}
+.navbar a{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    display: block;
+    }
+    .activate{
+        background-color: #00C4CC;
+    }
